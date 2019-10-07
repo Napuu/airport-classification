@@ -1,0 +1,3210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>airports1</name>
+  <Placemark>
+	<name>Sutan Sjahrir Air Force Base</name>
+      <Point><coordinates>100.3539,-0.8807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Watson Lake Airport</name>
+      <Point><coordinates>-128.8225,60.116389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Pas Airport</name>
+      <Point><coordinates>-101.091111,53.971389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pepperrell Air Force Base</name>
+      <Point><coordinates>-52.691944,47.586111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grande Prairie Airport</name>
+      <Point><coordinates>-118.887222,55.181944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CFB Goose Bay</name>
+      <Point><coordinates>-60.425833,53.319167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort St. John Airport</name>
+      <Point><coordinates>-120.740278,56.238333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Nelson Airport</name>
+      <Point><coordinates>-122.596944,58.836389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ernest Harmon Air Force Base</name>
+      <Point><coordinates>-58.553333,48.543889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erik Nielsen Whitehorse International Airport</name>
+      <Point><coordinates>-135.067222,60.709444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coral Harbour Airport</name>
+      <Point><coordinates>-83.359444,64.193333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Churchill Airport</name>
+      <Point><coordinates>-94.066389,58.739167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soewondo Air Force Base</name>
+      <Point><coordinates>98.671667,3.558056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iswahyudi Air Force Base</name>
+      <Point><coordinates>111.434117,-7.615767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tromsø Airport, Skattøra</name>
+      <Point><coordinates>19.0189,69.6958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Lee-on-Solent (HMS Daedalus)</name>
+      <Point><coordinates>-1.204444,50.815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kristiansand Naval Air Station</name>
+      <Point><coordinates>8.0077,58.1455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haugesund Naval Air Station</name>
+      <Point><coordinates>5.2817,59.3566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ålesund Airport, Sørneset</name>
+      <Point><coordinates>6.2264,62.46868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Tresco</name>
+      <Point><coordinates>-6.338056,49.953333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Stretton (HMS Blackcap)</name>
+      <Point><coordinates>-2.525278,53.345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS St Merryn (HMS Vulture)</name>
+      <Point><coordinates>-4.977778,50.504167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Pulham</name>
+      <Point><coordinates>1.229167,52.407222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Predannack Airfield</name>
+      <Point><coordinates>-5.230556,49.999167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Prawle Point</name>
+      <Point><coordinates>-3.715833,50.219167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Portland (HMS Osprey)</name>
+      <Point><coordinates>-2.450556,50.568889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAF Lympne</name>
+      <Point><coordinates>1.016667,51.083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Kingsnorth</name>
+      <Point><coordinates>0.601944,51.422778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Howden</name>
+      <Point><coordinates>-0.865833,53.788056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNAS Burscough (HMS Ringtail)</name>
+      <Point><coordinates>-2.843,53.596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trondheim Airport, Værnes</name>
+      <Point><coordinates>10.924167,63.4575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sola Air Station</name>
+      <Point><coordinates>5.637778,58.876667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salangen Airport, Elvenes</name>
+      <Point><coordinates>17.984444,68.871111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kjeller Airport</name>
+      <Point><coordinates>11.038889,59.969444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hattfjelldal Airport</name>
+      <Point><coordinates>13.99,65.595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bardufoss Air Station</name>
+      <Point><coordinates>18.540278,69.056111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Station Group Banak</name>
+      <Point><coordinates>24.973889,70.066667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PNS Mehran</name>
+      <Point><coordinates>67.109722,24.872778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PNS Makran</name>
+      <Point><coordinates>63.344722,25.291111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Utkrosh</name>
+      <Point><coordinates>92.729722,11.641111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Shikra</name>
+      <Point><coordinates>72.829347,18.913786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Rajali</name>
+      <Point><coordinates>79.691111,13.071111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porbandar Airport</name>
+      <Point><coordinates>69.657222,21.648611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Parundu</name>
+      <Point><coordinates>78.972778,9.323889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Hansa</name>
+      <Point><coordinates>73.831389,15.380833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Garuda</name>
+      <Point><coordinates>76.275,9.941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INS Dega</name>
+      <Point><coordinates>83.224444,17.721111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tsuiki Air Field</name>
+      <Point><coordinates>131.040278,33.685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shizuhama Air Base</name>
+      <Point><coordinates>138.298056,34.812778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shimojishima Airport</name>
+      <Point><coordinates>125.144722,24.826667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nyutabaru Air Base</name>
+      <Point><coordinates>131.451389,32.083611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Chitose Airport</name>
+      <Point><coordinates>141.6925,42.775278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naha Airport</name>
+      <Point><coordinates>127.645833,26.195833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naha Air Base</name>
+      <Point><coordinates>127.645833,26.195833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nagoya Airfield</name>
+      <Point><coordinates>136.924444,35.255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Misawa Airport</name>
+      <Point><coordinates>141.371944,40.705278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miho-Yonago Airport</name>
+      <Point><coordinates>133.239167,35.493333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matsushima Air Field</name>
+      <Point><coordinates>141.211944,38.403056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Komatsu Airport</name>
+      <Point><coordinates>136.4075,36.393889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iruma Air Base</name>
+      <Point><coordinates>139.410556,35.841944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ibaraki Airport</name>
+      <Point><coordinates>140.414722,36.181667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hōfu Air Field</name>
+      <Point><coordinates>131.546389,34.034444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hamamatsu Air Base</name>
+      <Point><coordinates>137.703056,34.750278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gifu Air Field</name>
+      <Point><coordinates>136.869444,35.394444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chitose Air Base</name>
+      <Point><coordinates>141.666389,42.794444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashiya Air Field</name>
+      <Point><coordinates>130.651667,33.881389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hamadan Airbase</name>
+      <Point><coordinates>48.653333,35.211667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fath Air Base</name>
+      <Point><coordinates>50.935278,35.717222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doshan Tappeh Air Base</name>
+      <Point><coordinates>51.475131,35.702983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dezful Airport</name>
+      <Point><coordinates>48.397639,32.434444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bishe Kola Airbase</name>
+      <Point><coordinates>52.349722,36.655278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mehrabad International Airport</name>
+      <Point><coordinates>51.312778,35.688611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wittmundhafen Air Base</name>
+      <Point><coordinates>7.667222,53.547778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schleswig Air Base</name>
+      <Point><coordinates>9.516389,54.459444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roth Air Base</name>
+      <Point><coordinates>11.100278,49.218056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rostock–Laage Airport</name>
+      <Point><coordinates>12.278333,53.918333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nörvenich AB_type:airport</name>
+      <Point><coordinates>6.658333,50.831667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neuburg Air Base</name>
+      <Point><coordinates>11.211667,48.711667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naval Air Station Pensacola</name>
+      <Point><coordinates>-87.317778,30.3525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lechfeld Air Base</name>
+      <Point><coordinates>10.861667,48.186111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laupheim Air Base</name>
+      <Point><coordinates>9.91,48.220278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Landsberg-Lech Air Base</name>
+      <Point><coordinates>10.9,48.066667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaufbeuren Air Base</name>
+      <Point><coordinates>10.614722,47.862222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holzdorf Air Base</name>
+      <Point><coordinates>13.167595,51.76787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hohn Air Base</name>
+      <Point><coordinates>9.538056,54.313611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fürstenfeldbruck Air Base</name>
+      <Point><coordinates>11.266389,48.206667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Faßberg Air Base</name>
+      <Point><coordinates>10.188889,52.919444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erding Air Base</name>
+      <Point><coordinates>11.948611,48.3225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cologne Bonn Airport</name>
+      <Point><coordinates>7.142778,50.865833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Büchel Air Base</name>
+      <Point><coordinates>7.057778,50.176389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Berlin Tegel Airport</name>
+      <Point><coordinates>13.287778,52.559722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pusan East (K-9) Air Base</name>
+      <Point><coordinates>129.131667,35.169444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casement Aerodrome</name>
+      <Point><coordinates>-6.451111,53.301667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Truax Field Air National Guard Base</name>
+      <Point><coordinates>-89.3375,43.139722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stewart Air National Guard Base</name>
+      <Point><coordinates>-74.104722,41.504167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stanly County Airport</name>
+      <Point><coordinates>-80.150833,35.416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southern California Logistics Airport</name>
+      <Point><coordinates>-117.383056,34.5975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rickenbacker Air National Guard Base</name>
+      <Point><coordinates>-82.946667,39.813611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pease Air National Guard Base</name>
+      <Point><coordinates>-70.823333,43.078056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Castle ANGB</name>
+      <Point><coordinates>-75.599167,39.685278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naval Air Station Point Mugu</name>
+      <Point><coordinates>-119.121111,34.120278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naval Air Station Joint Reserve Base Willow Grove</name>
+      <Point><coordinates>-75.1482,40.1998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naval Air Station Joint Reserve Base New Orleans</name>
+      <Point><coordinates>-90.035,29.825278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naval Air Station Joint Reserve Base Fort Worth</name>
+      <Point><coordinates>-97.441667,32.769167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moffett Federal Airfield</name>
+      <Point><coordinates>-122.048333,37.415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>March Air Reserve Base</name>
+      <Point><coordinates>-117.258889,33.881944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kelly Field Annex</name>
+      <Point><coordinates>-98.580833,29.383333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Imeson Field</name>
+      <Point><coordinates>-81.64,30.42</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hickam Air Force Base</name>
+      <Point><coordinates>-157.9225,21.318611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand Prairie Armed Forces Reserve Complex</name>
+      <Point><coordinates>-96.97,32.74</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fargo Air National Guard Base</name>
+      <Point><coordinates>-96.815833,46.920556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eielson AFB</name>
+      <Point><coordinates>-147.101389,64.665556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duluth Air National Guard Base</name>
+      <Point><coordinates>-92.193611,46.842222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carswell Air Force Base</name>
+      <Point><coordinates>-97.441667,32.769167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Ash Air Station</name>
+      <Point><coordinates>-84.387778,39.257222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bangor ANGB</name>
+      <Point><coordinates>-68.830833,44.814167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zavitinsk (air base)</name>
+      <Point><coordinates>129.503333,50.191667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vidsel Air Base</name>
+      <Point><coordinates>20.15,65.875278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malmen Airbase</name>
+      <Point><coordinates>15.522778,58.397778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vozdvizhenka (air base)</name>
+      <Point><coordinates>131.917778,43.912222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vorkuta Sovetsky</name>
+      <Point><coordinates>64.307778,67.465556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uzyn (air base)</name>
+      <Point><coordinates>30.440833,49.790278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ulan-Ude Vostochny Airport</name>
+      <Point><coordinates>107.738333,51.85</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stryi Air Base</name>
+      <Point><coordinates>23.786667,49.243333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shatalovo (air base)</name>
+      <Point><coordinates>32.473333,54.34</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pryluky Air Base</name>
+      <Point><coordinates>32.316667,50.566667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ozerne Air Base</name>
+      <Point><coordinates>28.738333,50.158333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olenya (air base)</name>
+      <Point><coordinates>33.47,68.151667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nizhyn Air Base</name>
+      <Point><coordinates>31.866667,51.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Machulishchy (air base)</name>
+      <Point><coordinates>27.577222,53.773611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dyagilevo (air base)</name>
+      <Point><coordinates>39.571667,54.641667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolon (air base)</name>
+      <Point><coordinates>79.183333,50.533333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tengah Air Base</name>
+      <Point><coordinates>103.708611,1.387222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sembawang Air Base</name>
+      <Point><coordinates>103.812778,1.425278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paya Lebar Air Base</name>
+      <Point><coordinates>103.909444,1.360278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Changi Air Base (West)</name>
+      <Point><coordinates>103.9825,1.377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Changi Air Base (East)</name>
+      <Point><coordinates>104.009722,1.345556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Changi Air Base</name>
+      <Point><coordinates>103.983183,1.376258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Bateen Executive Airport</name>
+      <Point><coordinates>54.458056,24.428333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vavuniya Airport</name>
+      <Point><coordinates>80.498,8.741194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sigiriya Airport</name>
+      <Point><coordinates>80.728111,7.955889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ratmalana Airport</name>
+      <Point><coordinates>79.886208,6.821994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Koggala Airport</name>
+      <Point><coordinates>80.320556,5.993889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Katukurunda Airport</name>
+      <Point><coordinates>79.978611,6.551944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jaffna Airport</name>
+      <Point><coordinates>80.070083,9.792333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iranamadu Airport</name>
+      <Point><coordinates>80.487611,9.305444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hingurakgoda Airport</name>
+      <Point><coordinates>80.981389,8.049722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>China Bay Airport</name>
+      <Point><coordinates>81.181861,8.539556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bentota River Airport</name>
+      <Point><coordinates>79.983333,6.416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batticaloa Airport</name>
+      <Point><coordinates>81.677778,7.705278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anuradhapura Airport</name>
+      <Point><coordinates>80.428611,8.301667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ampara Airport</name>
+      <Point><coordinates>81.630278,7.336944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ypenburg Airport</name>
+      <Point><coordinates>4.357,52.041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woy Woy Aerodrome</name>
+      <Point><coordinates>151.319444,-33.504167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAAF Base Uranquinty</name>
+      <Point><coordinates>147.208056,-35.1975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mungalalu Truscott Airbase</name>
+      <Point><coordinates>126.380833,-14.089722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tamworth Airport</name>
+      <Point><coordinates>150.849444,-31.083889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Strauss Airfield</name>
+      <Point><coordinates>131.078,-12.659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Snake Bay Airport</name>
+      <Point><coordinates>130.653611,-11.422778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Second World War RAAF Buildings, Maryborough Airport</name>
+      <Point><coordinates>152.711,-25.5176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sattler Airfield</name>
+      <Point><coordinates>131.051667,-12.61</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAAF Station Schofields</name>
+      <Point><coordinates>150.871111,-33.713611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Port Pirie Airport</name>
+      <Point><coordinates>137.995,-33.238889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pell Airfield</name>
+      <Point><coordinates>131.107,-13.147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parap Airfield</name>
+      <Point><coordinates>130.841944,-12.429722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAAF Base Nabiac</name>
+      <Point><coordinates>152.434167,-32.131667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scone Airport</name>
+      <Point><coordinates>150.832222,-32.037222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Druitt Aerodrome</name>
+      <Point><coordinates>150.795528,-33.756994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manbulloo Airfield</name>
+      <Point><coordinates>132.190061,-14.599542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAAF Base Mallala</name>
+      <Point><coordinates>138.504722,-34.415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Long Airfield</name>
+      <Point><coordinates>131.423111,-13.583064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Livingstone Airfield</name>
+      <Point><coordinates>131.089267,-12.68875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake Boga Flying Boat Base</name>
+      <Point><coordinates>143.627692,-35.4511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gould Airfield</name>
+      <Point><coordinates>131.037189,-13.086506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gawler Aerodrome</name>
+      <Point><coordinates>138.718889,-34.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fenton Airfield</name>
+      <Point><coordinates>131.338778,-13.623183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Farm Airport</name>
+      <Point><coordinates>153.084167,-27.425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAAF Station Cunderdin</name>
+      <Point><coordinates>117.22377,-31.624031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corunna Downs Airfield</name>
+      <Point><coordinates>119.782778,-21.433333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castlereagh Aerodrome</name>
+      <Point><coordinates>150.6875,-33.676944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bundaberg Airport</name>
+      <Point><coordinates>152.318611,-24.903889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Breddan Aerodrome</name>
+      <Point><coordinates>146.2543,-19.9424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bohle River Aerodrome</name>
+      <Point><coordinates>146.699258,-19.2828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bathurst Island Airport</name>
+      <Point><coordinates>130.619722,-11.769167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batchelor Airfield</name>
+      <Point><coordinates>131.027967,-13.055872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anthill Plains Aerodrome</name>
+      <Point><coordinates>146.824722,-19.443333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aitkenvale Aerodrome</name>
+      <Point><coordinates>146.739686,-19.312483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woensdrecht Air Base</name>
+      <Point><coordinates>4.341667,51.448889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Volkel Air Base</name>
+      <Point><coordinates>5.690833,51.657222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vlieland Heliport</name>
+      <Point><coordinates>5.085625,53.296867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soesterberg Air Base</name>
+      <Point><coordinates>5.283056,52.134167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lieutenant General Best Barracks</name>
+      <Point><coordinates>5.859444,51.526111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leeuwarden Air Base</name>
+      <Point><coordinates>5.760556,53.228611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gilze-Rijen Air Base</name>
+      <Point><coordinates>4.931667,51.567222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eindhoven Airport</name>
+      <Point><coordinates>5.374444,51.45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deelen Air Base</name>
+      <Point><coordinates>5.877222,52.059167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>De Kooy Airfield</name>
+      <Point><coordinates>4.780556,52.923611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wujah Al Hajar Air Base</name>
+      <Point><coordinates>35.7,34.283333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rene Mouawad Air Base</name>
+      <Point><coordinates>36.011389,34.589444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rayak Air Base</name>
+      <Point><coordinates>35.990278,33.852222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beirut Air Base</name>
+      <Point><coordinates>35.488333,33.821111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sydney Airport</name>
+      <Point><coordinates>151.177222,-33.946111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reid River Airfield</name>
+      <Point><coordinates>146.844444,-19.7625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Gambier Airport</name>
+      <Point><coordinates>140.785278,-37.745556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mareeba Airfield</name>
+      <Point><coordinates>145.419167,-17.069167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longreach Airport</name>
+      <Point><coordinates>144.280278,-23.434167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lockhart River Airport</name>
+      <Point><coordinates>143.304722,-12.786944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Essendon Airport</name>
+      <Point><coordinates>144.901944,-37.728056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Daly Waters Airfield</name>
+      <Point><coordinates>133.380556,-16.261667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cloncurry Airport</name>
+      <Point><coordinates>140.504444,-20.668611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charters Towers Airport</name>
+      <Point><coordinates>146.273333,-20.043333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charleville Airport</name>
+      <Point><coordinates>146.2625,-26.406667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canberra Airport</name>
+      <Point><coordinates>149.195,-35.306944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cairns Airport</name>
+      <Point><coordinates>145.755278,-16.885833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brisbane Airport</name>
+      <Point><coordinates>153.118333,-27.383333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bankstown Airport</name>
+      <Point><coordinates>150.988333,-33.925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ballarat Airport</name>
+      <Point><coordinates>143.791111,-37.511667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archerfield Airport</name>
+      <Point><coordinates>153.008056,-27.570278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sitalchay Military Airbase</name>
+      <Point><coordinates>49.400556,40.783889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Utti Airport</name>
+      <Point><coordinates>26.938056,60.896389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tampere–Pirkkala Airport</name>
+      <Point><coordinates>23.587778,61.415278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rovaniemi Airport</name>
+      <Point><coordinates>25.830833,66.561667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kuopio Airport</name>
+      <Point><coordinates>27.794444,63.008611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kauhava Airfield</name>
+      <Point><coordinates>23.051111,63.124167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halli Airport</name>
+      <Point><coordinates>24.789167,61.856389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nasosnaya Air Base</name>
+      <Point><coordinates>49.557222,40.591389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nakhchivan International Airport</name>
+      <Point><coordinates>45.458333,39.188611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dollyar Air Base</name>
+      <Point><coordinates>45.956944,40.8875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baku Kala Air Base</name>
+      <Point><coordinates>50.2,40.406389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Military Transport Air Command (Colombian Air Force)</name>
+      <Point><coordinates>-74.1511,4.7033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ngerengere Air Force Base</name>
+      <Point><coordinates>38.153944,-6.717083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zherdevka (air base)</name>
+      <Point><coordinates>41.55,51.833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNZAF Base Woodbourne</name>
+      <Point><coordinates>173.870278,-41.518333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNZAF Base Ohakea</name>
+      <Point><coordinates>175.387778,-40.206111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNZAF Base Auckland</name>
+      <Point><coordinates>174.630278,-36.787778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yugorsk Sovetsky (air base)</name>
+      <Point><coordinates>63.138333,61.268333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yefremov (air base)</name>
+      <Point><coordinates>38.245,53.113333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vyazma Airport</name>
+      <Point><coordinates>34.383333,55.148333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vozzhayevka (air base)</name>
+      <Point><coordinates>128.776667,50.77</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vasylkiv Air Base</name>
+      <Point><coordinates>30.3,50.233333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vaiņode Air Base</name>
+      <Point><coordinates>21.886667,56.405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uvelsky (air base)</name>
+      <Point><coordinates>61.353333,54.375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tunoshna Airport</name>
+      <Point><coordinates>40.157369,57.560667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Totskoye (air base)</name>
+      <Point><coordinates>52.78,52.501667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tapa Airfield</name>
+      <Point><coordinates>25.951667,59.235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tallinn Airport</name>
+      <Point><coordinates>24.8325,59.413333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Talagi Airport</name>
+      <Point><coordinates>40.716667,64.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stupino Airfield</name>
+      <Point><coordinates>38.151667,54.888333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smolensk North Airport</name>
+      <Point><coordinates>32.025,54.825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smirnykh (air base)</name>
+      <Point><coordinates>142.86,49.738333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaykovka (air base)</name>
+      <Point><coordinates>34.371667,54.226667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Semey Airport</name>
+      <Point><coordinates>80.234444,50.351389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Savatiya (air base)</name>
+      <Point><coordinates>46.87,60.995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Savasleyka (air base)</name>
+      <Point><coordinates>42.31,55.44</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salka Aerodrome</name>
+      <Point><coordinates>60.235,57.988333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rzhev (air base)</name>
+      <Point><coordinates>34.408333,56.26</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rogachevo (air base)</name>
+      <Point><coordinates>52.478333,71.616667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pravdinsk (air base)</name>
+      <Point><coordinates>43.48,56.521667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Poltava Air Base</name>
+      <Point><coordinates>34.486389,49.626944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Poduzhemye (air base)</name>
+      <Point><coordinates>34.265,64.918333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petrozavodsk Airport</name>
+      <Point><coordinates>34.156667,61.885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petropavlovsk-Kamchatsky Airport</name>
+      <Point><coordinates>158.4536,53.1677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pärnu Airport</name>
+      <Point><coordinates>24.472778,58.418889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orlovka (air base)</name>
+      <Point><coordinates>128.72,51.263333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nivenskoye</name>
+      <Point><coordinates>20.603333,54.561667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Myrhorod Air Base</name>
+      <Point><coordinates>33.639444,49.931667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mukachevo (air base)</name>
+      <Point><coordinates>22.683333,48.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monchegorsk (air base)</name>
+      <Point><coordinates>33.018333,67.986667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marienkhof</name>
+      <Point><coordinates>20.185,54.865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lodeynoye Pole (air base)</name>
+      <Point><coordinates>33.57,60.71</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lipetsk (air base)</name>
+      <Point><coordinates>39.445,52.635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Letneozersky (air base)</name>
+      <Point><coordinates>40.398333,63.39</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kursk Vostochny Airport</name>
+      <Point><coordinates>36.296667,51.751667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kupino (air base)</name>
+      <Point><coordinates>77.355833,54.351111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kubinka (air base)</name>
+      <Point><coordinates>36.65,55.611667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krichev (air base)</name>
+      <Point><coordinates>31.917222,53.734722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Komsomolsk-on-Amur Airport</name>
+      <Point><coordinates>136.933333,50.408333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klyuchi (air base)</name>
+      <Point><coordinates>160.805,56.31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klin (air base)</name>
+      <Point><coordinates>36.738333,56.366667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kirovske (air base)</name>
+      <Point><coordinates>35.181944,45.165278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kilpyavr (air base)</name>
+      <Point><coordinates>32.408333,69.096667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kansk (air base)</name>
+      <Point><coordinates>95.663333,56.123333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kamenny Ruchey</name>
+      <Point><coordinates>140.193333,49.233333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haapsalu Airfield</name>
+      <Point><coordinates>23.488333,58.911667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dzyomgi Airport</name>
+      <Point><coordinates>137.081667,50.605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dorokhovo (air base)</name>
+      <Point><coordinates>36.651667,57.725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dombarovsky Air Base</name>
+      <Point><coordinates>59.842222,51.093889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danilovo (air base)</name>
+      <Point><coordinates>48.033333,56.66</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chuguyevka (air base)</name>
+      <Point><coordinates>133.868333,44.083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borisovsky Khotilovo (air base)</name>
+      <Point><coordinates>34.1,57.655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bobrovka (air base)</name>
+      <Point><coordinates>50.714444,53.145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blagodatnoye (air base)</name>
+      <Point><coordinates>135.4175,48.410278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bezrechnaya-2 (air base)</name>
+      <Point><coordinates>116.216667,50.75</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belaya (air base)</name>
+      <Point><coordinates>103.575,52.915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baranovichi (air base)</name>
+      <Point><coordinates>26.035556,53.085278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltiysk (air base)</name>
+      <Point><coordinates>19.868333,54.61</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bagay-Baranovka (air base)</name>
+      <Point><coordinates>46.966667,52.140278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Armavir (air base)</name>
+      <Point><coordinates>41.108056,44.969167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Andreapol (air base)</name>
+      <Point><coordinates>32.313333,56.643333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amderma Airport</name>
+      <Point><coordinates>61.563333,69.763333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alykel Airport</name>
+      <Point><coordinates>87.333333,69.31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aleysk (air base)</name>
+      <Point><coordinates>82.7,52.483333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Afrikanda (air base)</name>
+      <Point><coordinates>32.786667,67.456667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Achinsk Airport</name>
+      <Point><coordinates>90.576667,56.268333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Maria Air Force Base</name>
+      <Point><coordinates>-53.692222,-29.710833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Istanbul Samandıra Army Air Base</name>
+      <Point><coordinates>29.215556,40.992778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ankara Güvercinlik Army Air Base</name>
+      <Point><coordinates>32.740775,39.93495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Cruz Air Force Base</name>
+      <Point><coordinates>-43.719167,-22.932222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Velho Air Force Base</name>
+      <Point><coordinates>-63.902222,-8.709167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Natal Air Force Base</name>
+      <Point><coordinates>-35.2475,-5.911389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manaus Air Force Base</name>
+      <Point><coordinates>-59.986389,-3.146111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galeão Air Force Base</name>
+      <Point><coordinates>-43.243611,-22.808889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Florianópolis Air Force Base</name>
+      <Point><coordinates>-48.546944,-27.670278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canoas Air Force Base</name>
+      <Point><coordinates>-51.144444,-29.945833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cachimbo Airport</name>
+      <Point><coordinates>-54.965278,-9.333889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Afonsos Air Force Base</name>
+      <Point><coordinates>-43.384722,-22.875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tezpur Airport</name>
+      <Point><coordinates>92.787222,26.712222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Łask Air Base</name>
+      <Point><coordinates>19.1791,51.5516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33rd Air Base</name>
+      <Point><coordinates>17.851111,52.381389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31st Air Base</name>
+      <Point><coordinates>16.96563,52.33041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23rd Air Base</name>
+      <Point><coordinates>21.656944,52.195556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22nd Air Base</name>
+      <Point><coordinates>19.136389,54.026667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12th Air Base</name>
+      <Point><coordinates>16.083056,53.394722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tejgaon Airport</name>
+      <Point><coordinates>90.3825,23.778611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sookerating Air Force Station</name>
+      <Point><coordinates>95.57065,27.552861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shah Amanat International Airport</name>
+      <Point><coordinates>91.813333,22.249722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panagarh Airport</name>
+      <Point><coordinates>87.4275,23.474444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Osmani International Airport</name>
+      <Point><coordinates>91.866944,24.963333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Netaji Subhas Chandra Bose International Airport</name>
+      <Point><coordinates>88.446667,22.654722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maharaja Bir Bikram Airport</name>
+      <Point><coordinates>91.242222,23.89</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalaikunda Air Force Station</name>
+      <Point><coordinates>87.214547,22.339417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Juhu Aerodrome</name>
+      <Point><coordinates>72.833889,19.098056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jiwani Airport</name>
+      <Point><coordinates>61.805556,25.067778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jinnah International Airport</name>
+      <Point><coordinates>67.160833,24.906667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ishwardi Airport</name>
+      <Point><coordinates>89.048622,24.153197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indira Gandhi International Airport</name>
+      <Point><coordinates>77.112222,28.568611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Imphal Airport</name>
+      <Point><coordinates>93.896667,24.76</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gaya Airport</name>
+      <Point><coordinates>84.951111,24.744444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dinjan Airfield</name>
+      <Point><coordinates>95.269447,27.538017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chakulia Airport</name>
+      <Point><coordinates>86.7107,22.466803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chabua Air Force Station</name>
+      <Point><coordinates>95.118056,27.462222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barrackpore Air Force Station</name>
+      <Point><coordinates>88.359167,22.781944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAF Amarda Road</name>
+      <Point><coordinates>87.046944,21.805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sabha Airbase</name>
+      <Point><coordinates>14.469167,26.995833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martuba Airbase</name>
+      <Point><coordinates>22.744444,32.541667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maaten al-Sarra Air Base</name>
+      <Point><coordinates>21.830556,21.688889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ghardabiya Airbase</name>
+      <Point><coordinates>16.611667,31.060556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gamal Abdel Nasser Airbase</name>
+      <Point><coordinates>23.906778,31.861389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Jufra Airbase</name>
+      <Point><coordinates>16.001111,29.198056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tiyas Military Airbase</name>
+      <Point><coordinates>37.629722,34.5225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zunyi Xinzhou Airport</name>
+      <Point><coordinates>107.248867,27.802331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zhangye Ganzhou Airport</name>
+      <Point><coordinates>100.675,38.801944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zhangjiakou Ningyuan Airport</name>
+      <Point><coordinates>114.930278,40.738611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yongxing Island Airport</name>
+      <Point><coordinates>112.345,16.833611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yiwu Airport</name>
+      <Point><coordinates>120.032222,29.344722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yibin Caiba Airport</name>
+      <Point><coordinates>104.544444,28.800278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yantai Laishan Airport</name>
+      <Point><coordinates>121.371667,37.401667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yan'an Nanniwan Airport</name>
+      <Point><coordinates>109.465278,36.476389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yan'an Ershilipu Airport</name>
+      <Point><coordinates>109.553889,36.636944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xinzhou Wutaishan Airport</name>
+      <Point><coordinates>112.967778,38.599167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xinyang Minggang Airport</name>
+      <Point><coordinates>114.077778,32.541389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xingtai Dalian Airport</name>
+      <Point><coordinates>114.429167,36.882778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xingning Air Base</name>
+      <Point><coordinates>115.757,24.15</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wuhu Wanli Airport</name>
+      <Point><coordinates>118.409444,31.390556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tonghua Sanyuanpu Airport</name>
+      <Point><coordinates>125.703889,42.253889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tianshui Maijishan Airport</name>
+      <Point><coordinates>105.861111,34.558333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tangshan Sannühe Airport</name>
+      <Point><coordinates>117.993333,39.725278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taizhou Luqiao Airport</name>
+      <Point><coordinates>121.428611,28.562222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suzhou Guangfu Airport</name>
+      <Point><coordinates>120.400556,31.263056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shigatse Peace Airport</name>
+      <Point><coordinates>89.306944,29.351667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shek Kong Airfield</name>
+      <Point><coordinates>114.080556,22.436389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaoguan Guitou Airport</name>
+      <Point><coordinates>113.421111,24.978611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shantou Waisha Airport</name>
+      <Point><coordinates>116.760278,23.425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shangqiu Airport</name>
+      <Point><coordinates>115.458333,34.449722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quzhou Airport</name>
+      <Point><coordinates>118.899444,28.965833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quanzhou Jinjiang International Airport</name>
+      <Point><coordinates>118.589444,24.798889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Qiqihar Sanjiazi Airport</name>
+      <Point><coordinates>123.918056,47.239722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Qinhuangdao Shanhaiguan Airport</name>
+      <Point><coordinates>119.731111,39.968056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nanjing Dajiaochang Airport</name>
+      <Point><coordinates>118.813889,31.998333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nanchang Xiangtang Airport</name>
+      <Point><coordinates>115.923333,28.421389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nanchang Laoyingfang Airport</name>
+      <Point><coordinates>115.91,28.675833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luzhou Yunlong Airport</name>
+      <Point><coordinates>105.47,29.03</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luliang Air Base</name>
+      <Point><coordinates>103.6425,24.988056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longyan Guanzhishan Airport</name>
+      <Point><coordinates>116.746389,25.674167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liuzhou Bailian Airport</name>
+      <Point><coordinates>109.391111,24.2075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lianyungang Baitabu Airport</name>
+      <Point><coordinates>118.873611,34.571667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaifeng Air Base</name>
+      <Point><coordinates>114.339167,34.754444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jinzhou Xiaolingzi Airport</name>
+      <Point><coordinates>121.061667,41.101389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jilin Ertaizi Airport</name>
+      <Point><coordinates>126.395556,44.002222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jiaxing Airport</name>
+      <Point><coordinates>120.680556,30.706667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huizhou Pingtan Airport</name>
+      <Point><coordinates>114.600278,23.048333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hanzhong Chenggu Airport</name>
+      <Point><coordinates>107.202222,33.136667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hangzhou Jianqiao Airport</name>
+      <Point><coordinates>120.238889,30.333056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guilin Qifengling Airport</name>
+      <Point><coordinates>110.319722,25.194444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Golmud Airport</name>
+      <Point><coordinates>94.786111,36.400556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foshan Shadi Airport</name>
+      <Point><coordinates>113.070833,23.0825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Datong Huairen Airport</name>
+      <Point><coordinates>113.142778,39.7175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chongqing Baishiyi Airport</name>
+      <Point><coordinates>106.358889,29.496111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Changsha Datuopu Airport</name>
+      <Point><coordinates>112.957222,28.069167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Changchun Dafangshen Airport</name>
+      <Point><coordinates>125.1975,43.906667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bengbu Airport</name>
+      <Point><coordinates>117.320278,32.8475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beijing Xijiao Airport</name>
+      <Point><coordinates>116.256389,39.961111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beijing Nanyuan Airport</name>
+      <Point><coordinates>116.3943,39.7842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baise Bama Airport</name>
+      <Point><coordinates>106.959167,23.719444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anshun Huangguoshu Airport</name>
+      <Point><coordinates>105.873056,26.260556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anshan Teng'ao Airport</name>
+      <Point><coordinates>122.855833,41.104722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anqing Tianzhushan Airport</name>
+      <Point><coordinates>117.050278,30.582222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>List of People's Liberation Army Air Force airbases</name>
+      <Point><coordinates>116.321389,40.149167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taftanaz Military Airbase</name>
+      <Point><coordinates>36.783056,35.972222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shayrat Airbase</name>
+      <Point><coordinates>36.908889,34.49</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Menagh Military Airbase</name>
+      <Point><coordinates>37.041111,36.521944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abu Ad Duhur Air Base</name>
+      <Point><coordinates>37.104167,35.731944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kuweires Military Aviation Institute</name>
+      <Point><coordinates>37.583056,36.186944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jirah Military Airbase</name>
+      <Point><coordinates>37.940278,36.0975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abu al-Duhur Military Airbase</name>
+      <Point><coordinates>37.101667,35.732778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tympaki Airport</name>
+      <Point><coordinates>24.765897,35.063539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tripoli Airport (Greece)</name>
+      <Point><coordinates>22.401456,37.526772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tatoi Airport</name>
+      <Point><coordinates>23.783836,38.108928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanagra Air Base</name>
+      <Point><coordinates>23.564958,38.339847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sedes Air Base</name>
+      <Point><coordinates>23.024119,40.533842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhodes Air Base</name>
+      <Point><coordinates>28.117778,36.384444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patras Araxos Airport</name>
+      <Point><coordinates>21.425556,38.151111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maleme Airport</name>
+      <Point><coordinates>23.832286,35.529361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kasteli Airport</name>
+      <Point><coordinates>25.328083,35.193444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Andravida Air Base</name>
+      <Point><coordinates>21.283333,37.933333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alexandreia Airport</name>
+      <Point><coordinates>22.488611,40.651111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RoAF 95th Air Base</name>
+      <Point><coordinates>26.910278,46.521667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RoAF 93rd Air Base</name>
+      <Point><coordinates>21.333997,45.81</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RoAF 90th Airlift Base</name>
+      <Point><coordinates>26.089167,44.561667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RoAF 86th Air Base</name>
+      <Point><coordinates>27.725556,44.395556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RoAF 71st Air Base</name>
+      <Point><coordinates>23.885278,46.503333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RoAF 57th Air Base</name>
+      <Point><coordinates>28.486997,44.362997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Željava Air Base</name>
+      <Point><coordinates>15.758056,44.836389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yeouido Airport</name>
+      <Point><coordinates>126.921944,37.525833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suwon Air Base</name>
+      <Point><coordinates>127.009444,37.235556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sondok Airport</name>
+      <Point><coordinates>127.474611,39.747333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sokcho Airport</name>
+      <Point><coordinates>128.598333,38.1425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinuiju Airport</name>
+      <Point><coordinates>124.407,40.086417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sacheon Airport</name>
+      <Point><coordinates>128.070369,35.088542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orang Airport</name>
+      <Point><coordinates>129.648333,41.429167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manpo Airport</name>
+      <Point><coordinates>126.357333,41.140194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalma Airport</name>
+      <Point><coordinates>127.484167,39.166389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jinhae Airport</name>
+      <Point><coordinates>128.695833,35.141111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haeju Airport</name>
+      <Point><coordinates>125.778833,38.006556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gwangju Airport</name>
+      <Point><coordinates>126.808889,35.126389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gimpo International Airport</name>
+      <Point><coordinates>126.790556,37.558056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gimhae Air Base</name>
+      <Point><coordinates>128.938333,35.179444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dandong Langtou Airport</name>
+      <Point><coordinates>124.286906,40.025951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Daegu International Airport</name>
+      <Point><coordinates>128.658889,35.894167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chodo Airport</name>
+      <Point><coordinates>124.832556,38.552028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ponikve Airport</name>
+      <Point><coordinates>19.697683,43.898886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tuzla Air Base</name>
+      <Point><coordinates>18.724722,44.458611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sombor Airport</name>
+      <Point><coordinates>19.058158,45.722217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Slatina Air Base</name>
+      <Point><coordinates>21.035833,42.572778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sjenica Airport</name>
+      <Point><coordinates>20.050267,43.2745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Podgorica Airbase</name>
+      <Point><coordinates>19.25,42.333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morava Airport</name>
+      <Point><coordinates>20.585278,43.818611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kovin Airport</name>
+      <Point><coordinates>20.961389,44.774444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Špiro Mugoša Airport</name>
+      <Point><coordinates>19.290778,42.422317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batlava-Donja Penduha Airfield</name>
+      <Point><coordinates>21.22,42.8455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batajnica Air Base</name>
+      <Point><coordinates>20.2575,44.935278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pakistan Air Force Academy</name>
+      <Point><coordinates>71.9725,34.081111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Shahbaz</name>
+      <Point><coordinates>68.449444,28.284167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Rafiqui</name>
+      <Point><coordinates>72.2825,30.758056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Peshawar</name>
+      <Point><coordinates>71.5289,33.9944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Mushaf</name>
+      <Point><coordinates>72.665278,32.048611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Murid</name>
+      <Point><coordinates>72.773889,32.91</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Minhas</name>
+      <Point><coordinates>72.400833,33.868889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Masroor</name>
+      <Point><coordinates>66.938889,24.893611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base M.M. Alam</name>
+      <Point><coordinates>71.570833,32.563056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Korangi</name>
+      <Point><coordinates>67.136111,24.781944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Kohat</name>
+      <Point><coordinates>71.439444,33.570556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PAF Base Faisal</name>
+      <Point><coordinates>67.115556,24.878333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chandhar Air Force Base</name>
+      <Point><coordinates>73.790278,32.077778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Ysterplaat</name>
+      <Point><coordinates>18.495,-33.906389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Waterkloof</name>
+      <Point><coordinates>28.2225,-25.83</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Swartkop</name>
+      <Point><coordinates>28.164444,-25.806944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Overberg</name>
+      <Point><coordinates>20.250556,-34.554722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Makhado</name>
+      <Point><coordinates>29.696667,-23.16</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Langebaanweg</name>
+      <Point><coordinates>18.165278,-32.968889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Hoedspruit</name>
+      <Point><coordinates>31.050278,-24.354722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Durban</name>
+      <Point><coordinates>30.947778,-29.968611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Bloemspruit</name>
+      <Point><coordinates>26.306944,-29.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Station Port Elizabeth</name>
+      <Point><coordinates>25.610278,-33.99</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Air Force Base Bloemspruit</name>
+      <Point><coordinates>26.303889,-29.093889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zhanyi Airport</name>
+      <Point><coordinates>103.828611,25.592222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malatya Erhaç Airport</name>
+      <Point><coordinates>38.090833,38.435278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kütahya Air Base</name>
+      <Point><coordinates>30.016667,39.426667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Konya Airport</name>
+      <Point><coordinates>32.561861,37.979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gaziemir Air Base</name>
+      <Point><coordinates>27.159353,38.319106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Etimesgut Air Base</name>
+      <Point><coordinates>32.688622,39.949831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eskişehir Airport</name>
+      <Point><coordinates>30.581944,39.783889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erkilet International Airport</name>
+      <Point><coordinates>35.495278,38.770278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diyarbakır Airport</name>
+      <Point><coordinates>40.200833,37.893889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Çiğli Air Base</name>
+      <Point><coordinates>27.01,38.512778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bandırma Airport</name>
+      <Point><coordinates>27.977222,40.317778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balıkesir Airport</name>
+      <Point><coordinates>27.925833,39.619167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amasya Merzifon Airport</name>
+      <Point><coordinates>35.521944,40.829167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mürted Airfield Command</name>
+      <Point><coordinates>32.565556,40.078889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xinjin Airport</name>
+      <Point><coordinates>103.844722,30.420278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xiangyun Airport</name>
+      <Point><coordinates>100.734722,25.445556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xi'an Xiguan Airport</name>
+      <Point><coordinates>109.12,34.376667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wuhan Tianhe International Airport</name>
+      <Point><coordinates>114.208056,30.783611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shanghai Jiangwan Airport</name>
+      <Point><coordinates>121.507778,31.330833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nanning Wuxu International Airport</name>
+      <Point><coordinates>108.172442,22.608267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liangping Airport</name>
+      <Point><coordinates>107.786111,30.679444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kunming Wujiaba International Airport</name>
+      <Point><coordinates>102.743333,24.992222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huxian Airport</name>
+      <Point><coordinates>108.599722,34.152778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huaihua Zhijiang Airport</name>
+      <Point><coordinates>109.699722,27.441389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hanzhong Xiguan Airport</name>
+      <Point><coordinates>107.008056,33.063611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guanghan Airport</name>
+      <Point><coordinates>104.329722,30.947778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ganzhou Huangjin Airport (former)</name>
+      <Point><coordinates>114.912778,25.826667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chengdu Shuangliu International Airport</name>
+      <Point><coordinates>103.946944,30.578333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ankang Wulipu Airport</name>
+      <Point><coordinates>108.931111,32.708056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Šiauliai International Airport</name>
+      <Point><coordinates>23.394722,55.893889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panevėžys Air Base</name>
+      <Point><coordinates>24.46,55.73</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kazlų Rūda Air Base</name>
+      <Point><coordinates>23.531667,54.806667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al-Taqaddum AB_type:airport</name>
+      <Point><coordinates>43.59,33.339444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaibah Air Base</name>
+      <Point><coordinates>47.642778,30.426111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rasheed Air Base</name>
+      <Point><coordinates>44.494722,33.277778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mudaysis Air Base</name>
+      <Point><coordinates>41.9486,32.4099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kirkuk Air Base</name>
+      <Point><coordinates>44.348889,35.469444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>H-3 AB</name>
+      <Point><coordinates>39.743889,32.929444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>H-2 AB</name>
+      <Point><coordinates>40.596389,33.356111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>H-1 Air Base</name>
+      <Point><coordinates>41.435278,33.814167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Camp Speicher</name>
+      <Point><coordinates>43.550556,34.6775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balad Air Base</name>
+      <Point><coordinates>44.366667,33.933333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ali Air Base</name>
+      <Point><coordinates>46.0925,30.939722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Asad Airbase</name>
+      <Point><coordinates>42.433333,33.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marsa Matruh International Airport</name>
+      <Point><coordinates>27.222222,31.325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAF Fayid</name>
+      <Point><coordinates>32.270556,30.371389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deversoir Air Base</name>
+      <Point><coordinates>32.335278,30.422778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bir Gifgafa Airfield</name>
+      <Point><coordinates>33.154167,30.407222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almaza Air Base</name>
+      <Point><coordinates>31.359722,30.094444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abu Suweir Air Base</name>
+      <Point><coordinates>32.095833,30.572222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Niš Constantine the Great Airport</name>
+      <Point><coordinates>21.853611,43.337222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punta Indio Naval Air Base (Punta Indio)</name>
+      <Point><coordinates>-57.294444,-35.347778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hermes Quijada International Airport</name>
+      <Point><coordinates>-67.754167,-53.777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Comandante Espora Airport</name>
+      <Point><coordinates>-62.169167,-38.724722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almirante Marcos A. Zar Airport</name>
+      <Point><coordinates>-65.283333,-43.209722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tel Nof Airbase</name>
+      <Point><coordinates>34.821844,31.839472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sdot Micha Airbase</name>
+      <Point><coordinates>34.919444,31.738611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sde Dov Airport</name>
+      <Point><coordinates>34.779447,32.110831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ramon Airbase</name>
+      <Point><coordinates>34.667778,30.774722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ramat David Airbase</name>
+      <Point><coordinates>35.183333,32.666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palmachim Airbase</name>
+      <Point><coordinates>34.690556,31.897778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ovda Airport</name>
+      <Point><coordinates>34.935833,29.940278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nevatim Airbase</name>
+      <Point><coordinates>35.0123,31.208347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lod Air Force Base</name>
+      <Point><coordinates>34.888333,32.011389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hatzor Airbase</name>
+      <Point><coordinates>34.727222,31.7625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hatzerim Airbase</name>
+      <Point><coordinates>34.662558,31.233358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pope Field</name>
+      <Point><coordinates>-79.014444,35.170833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harrisburg Air National Guard Base</name>
+      <Point><coordinates>-76.763333,40.193611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Delamere Air Weapons Range</name>
+      <Point><coordinates>131.866667,-15.616667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salon-de-Provence Air Base</name>
+      <Point><coordinates>5.109167,43.606389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naval Station Argentia</name>
+      <Point><coordinates>-53.99,47.306111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kindley Air Force Base</name>
+      <Point><coordinates>-64.681528,32.364528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cheddi Jagan International Airport</name>
+      <Point><coordinates>-58.253889,6.498333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beane Air Force Base</name>
+      <Point><coordinates>-60.9525,13.733056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sintra Air Base</name>
+      <Point><coordinates>-9.339553,38.831053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montijo Air Base</name>
+      <Point><coordinates>-9.035833,38.703889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monte Real Air Base</name>
+      <Point><coordinates>-8.8875,39.828333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Military and Technical Training Center of the Air Force</name>
+      <Point><coordinates>-8.950694,39.085167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lajes Field</name>
+      <Point><coordinates>-27.090833,38.761944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beja Airbase</name>
+      <Point><coordinates>-7.9325,38.078889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yelahanka Air Force Station</name>
+      <Point><coordinates>77.6075,13.135833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yeysk Airport</name>
+      <Point><coordinates>38.2145,46.6835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yaroslavl Levtsovo (air base)</name>
+      <Point><coordinates>40.055,57.731111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Voronezh Malshevo (air base)</name>
+      <Point><coordinates>39.131389,51.624722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Volgograd International Airport</name>
+      <Point><coordinates>44.346667,48.781667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vatega (air base)</name>
+      <Point><coordinates>38.411667,63.923333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Varfolomeyevka (air base)</name>
+      <Point><coordinates>133.409167,44.261944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ulyanovsk Baratayevka Airport</name>
+      <Point><coordinates>48.243056,54.275556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ukrainka (air base)</name>
+      <Point><coordinates>128.445,51.17</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ukkurey (air base)</name>
+      <Point><coordinates>116.833333,52.333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ugolny Airport</name>
+      <Point><coordinates>177.741667,64.735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uglovoye (airfield)</name>
+      <Point><coordinates>132.059167,43.348333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Torzhok (air base)</name>
+      <Point><coordinates>35.003611,57.046111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tiksi Airport</name>
+      <Point><coordinates>128.902778,71.6975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temp (air base)</name>
+      <Point><coordinates>137.741667,75.766667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tambov (air base)</name>
+      <Point><coordinates>41.366667,52.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taganrog-Central (air base)</name>
+      <Point><coordinates>38.84,47.246111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suntar Airport</name>
+      <Point><coordinates>117.636111,62.184722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Step (air base)</name>
+      <Point><coordinates>115.433333,51.016667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stavropol Shpakovskoye Airport</name>
+      <Point><coordinates>42.113333,45.11</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sredny Ostrov Airfield</name>
+      <Point><coordinates>91.075,79.528333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sormovo Airfield</name>
+      <Point><coordinates>43.795,56.318333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soltsy-2 (air base)</name>
+      <Point><coordinates>30.331667,58.146667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Slavgorod (air base)</name>
+      <Point><coordinates>78.633333,52.95</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Siversky (air base)</name>
+      <Point><coordinates>30.036667,59.356667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sharomy (air base)</name>
+      <Point><coordinates>158.151667,54.293333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shadrinsk (air base)</name>
+      <Point><coordinates>63.671667,56.036667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Semyazino Airport</name>
+      <Point><coordinates>40.315,56.126667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samara Kryazh Airport</name>
+      <Point><coordinates>50.098333,53.108333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salmi (air base)</name>
+      <Point><coordinates>32.008333,61.321667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rtishchevo (air base)</name>
+      <Point><coordinates>43.723611,52.295833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pushkin Airport</name>
+      <Point><coordinates>30.338333,59.685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pugachev (air base)</name>
+      <Point><coordinates>48.820833,52.033333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pskov Airport</name>
+      <Point><coordinates>28.398333,57.785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Provideniya Bay Airport</name>
+      <Point><coordinates>-173.243333,64.378333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Protasovo (air base)</name>
+      <Point><coordinates>39.931667,54.493333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povorino (air base)</name>
+      <Point><coordinates>42.166667,51.083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Polyarny Airport</name>
+      <Point><coordinates>112.05,66.416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petrovsk (air base)</name>
+      <Point><coordinates>45.388889,52.273611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Perm International Airport</name>
+      <Point><coordinates>56.021111,57.914444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pechora Kamenka (air base)</name>
+      <Point><coordinates>56.673333,65.055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ostrov Bolshevik (air base)</name>
+      <Point><coordinates>100.995,78.585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orsk Airport</name>
+      <Point><coordinates>58.596667,51.071667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nurmalitsy (air base)</name>
+      <Point><coordinates>32.978333,61.045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Novofedorivka</name>
+      <Point><coordinates>33.595,45.093056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naryan-Mar Airport</name>
+      <Point><coordinates>53.125,67.64</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nagurskoye (air base)</name>
+      <Point><coordinates>47.733333,80.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mys Shmidta Airport</name>
+      <Point><coordinates>-179.375556,68.868333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monino Airfield</name>
+      <Point><coordinates>38.17,55.836667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migalovo (air base)</name>
+      <Point><coordinates>35.76,56.825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Michurinsk (air base)</name>
+      <Point><coordinates>40.365,52.918333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mengon (air base)</name>
+      <Point><coordinates>136.3,50.033333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medyn-Aduyevo (air base)</name>
+      <Point><coordinates>35.995,55.003333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maysionvara (air base)</name>
+      <Point><coordinates>32.416667,62.28</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lyambir (air base)</name>
+      <Point><coordinates>45.168333,54.285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luostari/Pechenga (air base)</name>
+      <Point><coordinates>30.988333,69.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loukhi-3 (air base)</name>
+      <Point><coordinates>32.796667,66.055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Levashovo (air base)</name>
+      <Point><coordinates>30.193333,60.086667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lenino (air base)</name>
+      <Point><coordinates>156.878333,52.91</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lebyazhye (air base)</name>
+      <Point><coordinates>45.208333,50.201667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krymsk (air base)</name>
+      <Point><coordinates>37.980556,44.923333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krechevitsy Airport</name>
+      <Point><coordinates>31.4,58.625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klokovo</name>
+      <Point><coordinates>37.606667,54.236667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kirsanov (air base)</name>
+      <Point><coordinates>42.683333,52.666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kirovsk-Apatity Airport</name>
+      <Point><coordinates>33.588056,67.463056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khrabrovo Airport</name>
+      <Point><coordinates>20.5925,54.89</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khatanga Airport</name>
+      <Point><coordinates>102.486667,71.968333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khanskaya (air base)</name>
+      <Point><coordinates>40.038333,44.68</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karaksar (air base)</name>
+      <Point><coordinates>115.85,51.283333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kapustin Yar (air base)</name>
+      <Point><coordinates>45.731667,48.667778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kant (air base)</name>
+      <Point><coordinates>74.846389,42.853056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kamensk-Uralsky (air base)</name>
+      <Point><coordinates>61.986667,56.436667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ivanovo Severny (air base)</name>
+      <Point><coordinates>40.981667,57.058333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ignatyevo Airport</name>
+      <Point><coordinates>127.413333,50.425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gromovo airport</name>
+      <Point><coordinates>30.111667,60.713333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greem Bell Airfield</name>
+      <Point><coordinates>64.266667,81.143889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gorin (air base)</name>
+      <Point><coordinates>136.635,51.171667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galenki (air base)</name>
+      <Point><coordinates>131.805278,44.096111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Engozero (air base)</name>
+      <Point><coordinates>33.933333,65.866667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dzhida (air base)</name>
+      <Point><coordinates>106.133333,50.683333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Domna (air base)</name>
+      <Point><coordinates>113.116667,51.916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolinsk-Sokol (air base)</name>
+      <Point><coordinates>142.768333,47.261667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chudovo (air base)</name>
+      <Point><coordinates>31.27,59.238333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chokurdakh Airport</name>
+      <Point><coordinates>147.896667,70.625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chita Northwest (air base)</name>
+      <Point><coordinates>113.433333,52.066667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chindant (air base)</name>
+      <Point><coordinates>116.346667,50.396667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chernoi (air base)</name>
+      <Point><coordinates>38.066667,55.75</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chelyabinsk Shagol Airport</name>
+      <Point><coordinates>61.3,55.26</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chekurovka (air base)</name>
+      <Point><coordinates>127.338333,71.065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chebenki (air base)</name>
+      <Point><coordinates>55.55,51.966667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buturlinovka (air base)</name>
+      <Point><coordinates>40.616667,50.783333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burevestnik Airport</name>
+      <Point><coordinates>147.621667,44.92</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bratsk Airport</name>
+      <Point><coordinates>101.698333,56.37</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borisoglebsk (air base)</name>
+      <Point><coordinates>42.178333,51.366667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Berezovka (air base)</name>
+      <Point><coordinates>34.216667,67.38</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bassel Al-Assad International Airport</name>
+      <Point><coordinates>35.948611,35.400833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barnaul Airport</name>
+      <Point><coordinates>83.541667,53.363333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balashov (air base)</name>
+      <Point><coordinates>43.3,51.533333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bakharevka Airport</name>
+      <Point><coordinates>56.195,57.951667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bada (air base)</name>
+      <Point><coordinates>109.9,51.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aspidnoye (air base)</name>
+      <Point><coordinates>161.561667,69.363333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashchebutak (air base)</name>
+      <Point><coordinates>59.168333,51.035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arabatuk (air base)</name>
+      <Point><coordinates>117.1,50.216667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uttarlai Air Force Station</name>
+      <Point><coordinates>71.482222,25.812778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Udhampur Air Force Station</name>
+      <Point><coordinates>75.156111,32.901944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thanjavur Air Force Station</name>
+      <Point><coordinates>79.101389,10.722222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tawang Air Force Station</name>
+      <Point><coordinates>91.877778,27.588611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tambaram Air Force Station</name>
+      <Point><coordinates>80.121111,12.906944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suratgarh Air Force Station</name>
+      <Point><coordinates>73.903889,29.387778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulur Air Force Station</name>
+      <Point><coordinates>77.159722,11.013611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sirsa Air Force Station</name>
+      <Point><coordinates>75.005833,29.561667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sarsawa Air Force Station</name>
+      <Point><coordinates>77.424167,29.994167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Phalodi Air Force Station</name>
+      <Point><coordinates>72.212361,27.106297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pathankot Air Force Station</name>
+      <Point><coordinates>75.634444,32.233611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naliya AFS</name>
+      <Point><coordinates>68.9,23.22</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mohammadabad Airstrip</name>
+      <Point><coordinates>79.452778,27.315833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mechuka Advanced Landing Ground</name>
+      <Point><coordinates>94.124861,28.602861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lucknow Air Force Station</name>
+      <Point><coordinates>80.891389,26.988611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lokpriya Gopinath Bordoloi International Airport</name>
+      <Point><coordinates>91.585833,26.106111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kanpur Airport</name>
+      <Point><coordinates>80.412222,26.402778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jhansi Airport</name>
+      <Point><coordinates>78.559444,25.49</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hindon Airport</name>
+      <Point><coordinates>77.342137,28.70579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hindan Air Force Station</name>
+      <Point><coordinates>77.358333,28.707778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hasimara Air Force Station</name>
+      <Point><coordinates>89.368889,26.698056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halwara Air Force Station</name>
+      <Point><coordinates>75.629722,30.748611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hakimpet Air Force Station</name>
+      <Point><coordinates>78.3129,17.3312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gorakhpur Airport</name>
+      <Point><coordinates>83.449444,26.739444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fukche</name>
+      <Point><coordinates>79.213333,32.9375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charbatia Air Base</name>
+      <Point><coordinates>85.886261,20.549619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shillong Airport</name>
+      <Point><coordinates>91.978611,25.703611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Car Nicobar Air Force Base</name>
+      <Point><coordinates>92.819722,9.1525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Airport</name>
+      <Point><coordinates>73.206944,28.070556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bihta Air Force Station</name>
+      <Point><coordinates>84.883333,25.590833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bidar Airport</name>
+      <Point><coordinates>77.47,17.9</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhuj Rudra Mata Air Force Base</name>
+      <Point><coordinates>69.670278,23.287778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bathinda Airport</name>
+      <Point><coordinates>74.755556,30.27</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bareilly Airport</name>
+      <Point><coordinates>79.468019,28.424221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bangarmau Airstrip</name>
+      <Point><coordinates>80.253053,26.919334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Awantipur Air Force Station</name>
+      <Point><coordinates>74.975556,33.876389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ambala Air Force Station</name>
+      <Point><coordinates>76.817778,30.370833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Allahabad Airport</name>
+      <Point><coordinates>81.733889,25.44</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agra Airport</name>
+      <Point><coordinates>77.970726,27.161831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adampur Airport</name>
+      <Point><coordinates>75.760556,31.433056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vélizy – Villacoublay Air Base</name>
+      <Point><coordinates>2.199722,48.773056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rutja Airfield</name>
+      <Point><coordinates>26.311667,59.536667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rumbula Air Base</name>
+      <Point><coordinates>24.226667,56.883333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reshma (air base)</name>
+      <Point><coordinates>42.43,57.426667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raadi Airfield</name>
+      <Point><coordinates>26.773611,58.404722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pyriatyn Airport</name>
+      <Point><coordinates>32.529722,50.152222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pribytki Air Base (Gomel (Homiel))</name>
+      <Point><coordinates>31.16225,52.306111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Postavy Air Base</name>
+      <Point><coordinates>26.751944,55.116667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pápa Air Base</name>
+      <Point><coordinates>17.497222,47.363889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ovruch (air base)</name>
+      <Point><coordinates>28.716667,51.266667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oryol Yuzhny Airport</name>
+      <Point><coordinates>36.001667,52.935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orenburg (air base)</name>
+      <Point><coordinates>55.016667,51.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Okhtyrka Air Base</name>
+      <Point><coordinates>35.016667,50.3</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Novorossiya (air base)</name>
+      <Point><coordinates>132.559722,43.345556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mitiga International Airport</name>
+      <Point><coordinates>13.283333,32.9</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maykhe (air base)</name>
+      <Point><coordinates>132.424167,43.4225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matrosovo</name>
+      <Point><coordinates>142.883333,49.401667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manas International Airport</name>
+      <Point><coordinates>74.477556,43.061306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maladzyechna Air Base</name>
+      <Point><coordinates>26.871667,54.248333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lymanske Airport</name>
+      <Point><coordinates>30.011111,46.668889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lutsk Air Base</name>
+      <Point><coordinates>25.35,50.783333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luninets Air Base</name>
+      <Point><coordinates>26.775,52.275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lovozero (air base)</name>
+      <Point><coordinates>35.0,68.021667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liubsha Air Base</name>
+      <Point><coordinates>24.198333,49.288333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liepas Air Base</name>
+      <Point><coordinates>25.508333,57.386667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lielvārde Air Base</name>
+      <Point><coordinates>24.853333,56.778333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lebedyn (air base)</name>
+      <Point><coordinates>34.533333,50.55</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lebedovo</name>
+      <Point><coordinates>46.25,51.283333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lasnamäe Airfield</name>
+      <Point><coordinates>24.863333,59.45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kurgan West</name>
+      <Point><coordinates>64.941667,55.406667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kryuchkovo</name>
+      <Point><coordinates>35.508333,57.068333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krasnoyarsk Northeast</name>
+      <Point><coordinates>92.906667,56.041667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krapivnya</name>
+      <Point><coordinates>33.388333,57.076667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Konotop Air Base</name>
+      <Point><coordinates>33.15,51.25</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kolomyia (air base)</name>
+      <Point><coordinates>25.126389,48.528611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kluczewo Airfield</name>
+      <Point><coordinates>14.966667,53.280556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khorol Airfield</name>
+      <Point><coordinates>132.125278,44.450278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khada Bulak</name>
+      <Point><coordinates>116.383333,50.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kėdainiai Air Base</name>
+      <Point><coordinates>23.953333,55.311667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kasimovo Airfield</name>
+      <Point><coordinates>30.335,60.198333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karshi-Khanabad Air Base</name>
+      <Point><coordinates>65.92,38.835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kandahar International Airport (Kandahar)</name>
+      <Point><coordinates>65.847778,31.505833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalyniv (airfield)</name>
+      <Point><coordinates>23.335,49.55</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakaydy</name>
+      <Point><coordinates>67.5175,37.624167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jonava Airport</name>
+      <Point><coordinates>24.363333,55.01</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jelgava Air Base</name>
+      <Point><coordinates>23.678333,56.671667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jēkabpils Air Base</name>
+      <Point><coordinates>25.891667,56.535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hradčany Air Base</name>
+      <Point><coordinates>14.738056,50.620556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hostomel Airport</name>
+      <Point><coordinates>30.191944,50.603611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Horodok Air Base</name>
+      <Point><coordinates>23.668333,49.738333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Horodnia Air Base</name>
+      <Point><coordinates>31.65,51.883333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gorny (air base)</name>
+      <Point><coordinates>48.633333,51.75</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ganja International Airport</name>
+      <Point><coordinates>46.3175,40.737778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erebuni Airport</name>
+      <Point><coordinates>44.472778,40.128333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dubno Air Base</name>
+      <Point><coordinates>25.833333,50.45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolon Southwest</name>
+      <Point><coordinates>79.083333,50.25</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dobrynskoye</name>
+      <Point><coordinates>40.591667,56.245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Debrecen International Airport</name>
+      <Point><coordinates>21.615278,47.488889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Choibalsan Airport</name>
+      <Point><coordinates>114.646111,48.135556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chkalovsky Airport</name>
+      <Point><coordinates>38.061667,55.878333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chervone-Pustohorod</name>
+      <Point><coordinates>34.05,51.85</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chernihiv Air Base</name>
+      <Point><coordinates>31.316667,51.55</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brody Air Base</name>
+      <Point><coordinates>25.166667,50.133333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borovitsy</name>
+      <Point><coordinates>28.678333,55.608333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borodianka (air base)</name>
+      <Point><coordinates>29.9,50.666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borisoglebskoye Airfield</name>
+      <Point><coordinates>49.133333,55.866667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bobr Air Base</name>
+      <Point><coordinates>29.376667,54.375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balbasovo Air Base</name>
+      <Point><coordinates>30.296667,54.44</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baherove (air base)</name>
+      <Point><coordinates>36.244722,45.406944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bagram Airfield</name>
+      <Point><coordinates>69.265,34.946111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Babruysk (air base)</name>
+      <Point><coordinates>29.205833,53.104722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aste Airfield</name>
+      <Point><coordinates>22.446944,58.360556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aden International Airport</name>
+      <Point><coordinates>45.028889,12.829444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vatry Air Base</name>
+      <Point><coordinates>4.195556,48.776944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Solenzara Air Base</name>
+      <Point><coordinates>9.406,41.924417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint-Simon – Clastres Air Base</name>
+      <Point><coordinates>3.212222,49.757222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint-Dizier – Robinson Air Base</name>
+      <Point><coordinates>4.899167,48.635833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reims – Champagne Air Base</name>
+      <Point><coordinates>4.050833,49.310278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orléans – Bricy Air Base</name>
+      <Point><coordinates>1.760556,47.9875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orange-Caritat Air Base</name>
+      <Point><coordinates>4.868611,44.14</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nancy – Ochey Air Base</name>
+      <Point><coordinates>5.954167,48.583056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mont-de-Marsan Air Base</name>
+      <Point><coordinates>-0.509167,43.911667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metz-Frescaty Air Base</name>
+      <Point><coordinates>6.131667,49.071667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luxeuil Air Base</name>
+      <Point><coordinates>6.364167,47.783056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Istres-Le Tubé Air Base</name>
+      <Point><coordinates>4.941667,43.524444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Djibouti–Ambouli International Airport</name>
+      <Point><coordinates>43.159206,11.546258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dijon Air Base</name>
+      <Point><coordinates>5.088889,47.273889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cognac – Châteaubernard Air Base</name>
+      <Point><coordinates>-0.3175,45.658333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Châteaudun Air Base</name>
+      <Point><coordinates>1.376389,48.058056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cazaux Air Base</name>
+      <Point><coordinates>-1.128611,44.532222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brétigny-sur-Orge Air Base</name>
+      <Point><coordinates>2.333056,48.596667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avord Air Base</name>
+      <Point><coordinates>2.6325,47.053333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ambérieu-en-Bugey Air Base</name>
+      <Point><coordinates>5.328333,45.987222</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

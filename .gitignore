@@ -1,0 +1,6 @@
+**__pycache__
+**__init__.py
+*.json
+!package.json
+wikidump
+node_modules/
